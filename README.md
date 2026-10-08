@@ -42,10 +42,11 @@ int main() {
 }
 
 ```
-
+```
 *Результат виконання:*
 Завдання 1:
 11.2 7.5 23.6 18.4 29.1
+```
 <img width="1897" height="476" alt="image" src="https://github.com/user-attachments/assets/b8cd5622-8abf-4244-a73f-d90c0da90efe" />
 
 
